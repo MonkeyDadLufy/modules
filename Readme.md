@@ -8,6 +8,8 @@
 
 ### 2、机制
 
-![image-20240425221445309](C:\Users\pytorch\AppData\Roaming\Typora\typora-user-images\image-20240425221445309.png)
 
-![image-20240425221511225](C:\Users\pytorch\AppData\Roaming\Typora\typora-user-images\image-20240425221511225.png)![image-20240425221521321](C:\Users\pytorch\AppData\Roaming\Typora\typora-user-images\image-20240425221521321.png)![image-20240425221526889](C:\Users\pytorch\AppData\Roaming\Typora\typora-user-images\image-20240425221526889.png)
+![image](https://github.com/MonkeyDadLufy/modules/blob/SFMLM/img/图片1.png)
+![image](https://github.com/MonkeyDadLufy/modules/blob/SFMLM/img/图片2.png)
+![image](https://github.com/MonkeyDadLufy/modules/blob/SFMLM/img/图片3.png)
+![image](https://github.com/MonkeyDadLufy/modules/blob/SFMLM/img/图片4.png)
